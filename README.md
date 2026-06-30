@@ -1,6 +1,8 @@
 # Hi, I'm Kakumanu Venkata Sri Harsha 👋
 
-Computer Science Student | Backend Developer | Data Analytics Enthusiast
+🎓 B.Tech Computer Science & Engineering Student at Amrita Vishwa Vidyapeetham, Amaravati
+
+Backend Developer & Data Analyst | Python | Django | Django REST Framework | SQL | Power BI | REST APIs
 
 ## Skills
 
@@ -9,11 +11,10 @@ Computer Science Student | Backend Developer | Data Analytics Enthusiast
 - Django REST Framework
 - SQL
 - Power BI
-- Git
-- GitHub
+- Git & GitHub
 - REST APIs
 
-## Projects
+##  Projects
 
 🔹 Student Platform (Django REST Framework)
 
@@ -23,13 +24,13 @@ Computer Science Student | Backend Developer | Data Analytics Enthusiast
 
 🔹 Panic Attack Data Analysis
 
-## Currently Learning
+##  Currently Learning
 
-- Django REST Framework
-- Backend Development
-- System Design
+- Advanced Django REST Framework
+- Backend System Design
+- API Security & Authentication
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sri%20Harsha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
 
