@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kakumanu Venkata Sri Harsha 👋
 
-<!--
-**SriHarsha-17/SriHarsha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Backend Developer | Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- Django REST Framework
+- SQL
+- Power BI
+- Git
+- GitHub
+- REST APIs
+
+## Projects
+
+🔹 Student Platform (Django REST Framework)
+
+🔹 Marketing Analytics Dashboard
+
+🔹 Netflix Content Analytics
+
+🔹 Panic Attack Data Analysis
+
+## Currently Learning
+
+- Django REST Framework
+- Backend Development
+- System Design
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sri%20Harsha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
+
+[![Email](https://img.shields.io/badge/Email-sriharshakakumanu1718%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sriharshakakumanu1718@gmail.com)
