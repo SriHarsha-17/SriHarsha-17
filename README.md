@@ -6,9 +6,14 @@
 
 Building scalable backend applications with Django and transforming data into meaningful insights.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sriharshakakumanu1718@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SriHarsha-17&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/SriHarsha-17)
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sriharshakakumanu1718@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
