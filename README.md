@@ -1,8 +1,28 @@
-# Hi, I'm Kakumanu Venkata Sri Harsha 👋
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Student at Amrita Vishwa Vidyapeetham, Amaravati
+# Hi 👋, I'm Kakumanu Venkata Sri Harsha
 
-Backend Developer & Data Analyst | Python | Django | Django REST Framework | SQL | Power BI | REST APIs
+### Backend Developer & Data Analyst
+
+Building scalable backend applications with Django and transforming data into meaningful insights.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sriharshakakumanu1718@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SriHarsha-17&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/SriHarsha-17)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham, Amaravati**
+- 💻 Passionate about backend development using **Django** and **Django REST Framework**
+- 📊 Interested in **Data Analytics** using **Python, SQL, Microsoft SQL Server, Excel, and Power BI**
+- 🚀 I enjoy building REST APIs and creating data-driven solutions for real-world problems.
+- 💼 Open to **Backend Developer**, **Python Developer**, and **Data Analyst** internship opportunities.
+
+---
 
 ## Skills
 
@@ -14,6 +34,8 @@ Backend Developer & Data Analyst | Python | Django | Django REST Framework | SQL
 - Git & GitHub
 - REST APIs
 
+---
+
 ##  Projects
 
 🔹 Student Platform (Django REST Framework)
@@ -24,14 +46,27 @@ Backend Developer & Data Analyst | Python | Django | Django REST Framework | SQL
 
 🔹 Panic Attack Data Analysis
 
-##  Currently Learning
+---
 
-- Advanced Django REST Framework
-- Backend System Design
-- API Security & Authentication
+## 🔥 GitHub Streak
 
-##  Connect with Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sri%20Harsha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
+<img src="https://streak-stats.demolab.com?user=SriHarsha-17&theme=github-dark&hide_border=true"/>
 
-[![Email](https://img.shields.io/badge/Email-sriharshakakumanu1718%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sriharshakakumanu1718@gmail.com)
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/
+- Email: **sriharshakakumanu1718@gmail.com**
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+</div>
