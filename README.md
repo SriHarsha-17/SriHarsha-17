@@ -6,17 +6,6 @@
 
 Building scalable backend applications with Django and transforming data into meaningful insights.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sriharshakakumanu1718@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
