@@ -1,37 +1,58 @@
-# Hi, I'm Kakumanu Venkata Sri Harsha 👋
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Student at Amrita Vishwa Vidyapeetham, Amaravati
+# Hi 👋, I'm Kakumanu Venkata Sri Harsha
 
-Backend Developer & Data Analyst | Python | Django | Django REST Framework | SQL | Power BI | REST APIs
+### Backend Developer & Data Analyst
 
-## Skills
+Building scalable backend applications with Django and transforming data into meaningful insights.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham, Amaravati**
+- 💻 Backend Developer | Django | Django REST Framework
+- 📊 Data Analyst | Python | SQL | Power BI
+- 🚀 Passionate about building scalable backend applications and data-driven solutions
+- 💼 Open to internship opportunities
+
+---
+
+## 🛠️ Skills
 
 - Python
 - Django
 - Django REST Framework
 - SQL
+- Microsoft SQL Server
 - Power BI
+- Microsoft Excel
 - Git & GitHub
 - REST APIs
 
-##  Projects
+---
 
-🔹 Student Platform (Django REST Framework)
+## 🔥 GitHub Streak
 
-🔹 Marketing Analytics Dashboard
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SriHarsha-17&theme=github-dark&hide_border=true" />
+</p>
 
-🔹 Netflix Content Analytics
+---
 
-🔹 Panic Attack Data Analysis
+## 📫 Connect With Me
 
-##  Currently Learning
+- 💼 LinkedIn: https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/
+- 📧 Email: **sriharshakakumanu1718@gmail.com**
 
-- Advanced Django REST Framework
-- Backend System Design
-- API Security & Authentication
+---
 
-##  Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sri%20Harsha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-sri-harsha-kakumanu/)
+### Thanks for visiting! 👋
 
-[![Email](https://img.shields.io/badge/Email-sriharshakakumanu1718%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sriharshakakumanu1718@gmail.com)
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
