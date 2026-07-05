@@ -37,7 +37,7 @@ Building scalable backend applications with Django and transforming data into me
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SriHarsha-17&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SriHarsha-17&theme=github-dark&hide_border=true&cache_seconds=1&v=2" alt="GitHub Streak" />
 </p>
 
 ---
