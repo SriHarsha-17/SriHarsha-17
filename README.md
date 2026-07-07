@@ -22,10 +22,6 @@ Building scalable backend applications with Django and transforming data into me
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode" />
-</p>
-
 - Python
 - Django
 - Django REST Framework
