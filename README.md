@@ -14,13 +14,17 @@ Building scalable backend applications with Django and transforming data into me
 
 - 🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham, Amaravati**
 - 💻 Backend Developer | Django | Django REST Framework
-- 📊 Data Analyst | Python | SQL | Power BI
+- 📊 Data Analyst | Python | SQL | Microsoft SQL Server | Power BI
 - 🚀 Passionate about building scalable backend applications and data-driven solutions
 - 💼 Open to internship opportunities
 
 ---
 
 ## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode" />
+</p>
 
 - Python
 - Django
@@ -29,15 +33,24 @@ Building scalable backend applications with Django and transforming data into me
 - Microsoft SQL Server
 - Power BI
 - Microsoft Excel
-- Git & GitHub
 - REST APIs
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriHarsha-17&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHarsha-17&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SriHarsha-17&theme=github-dark&hide_border=true&cache_seconds=1&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SriHarsha-17&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
