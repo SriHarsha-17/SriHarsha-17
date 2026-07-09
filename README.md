@@ -34,15 +34,6 @@ Building scalable backend applications with Django and transforming data into me
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriHarsha-17&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHarsha-17&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
